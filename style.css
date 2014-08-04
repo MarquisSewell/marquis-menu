@@ -68,3 +68,8 @@ li {
 .well {
   padding: 10px;
 }
+
+.caption {
+    opacity:0.6;   
+}
+}
